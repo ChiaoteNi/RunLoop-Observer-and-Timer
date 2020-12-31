@@ -13,6 +13,20 @@
 		655D5C232598370F00DA54EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 655D5C212598370F00DA54EA /* Main.storyboard */; };
 		655D5C252598371000DA54EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 655D5C242598371000DA54EA /* Assets.xcassets */; };
 		655D5C282598371000DA54EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 655D5C262598371000DA54EA /* LaunchScreen.storyboard */; };
+		655D5C58259890D800DA54EA /* RunLoopStatusDemoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5C57259890D800DA54EA /* RunLoopStatusDemoVC.swift */; };
+		655D5C5C2598919800DA54EA /* Array + SafetyAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5C5B2598919800DA54EA /* Array + SafetyAccess.swift */; };
+		655D5C622598C2CE00DA54EA /* UITableView + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5C612598C2CE00DA54EA /* UITableView + Extension.swift */; };
+		655D5C652598CA1300DA54EA /* NSObject + className.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5C642598CA1300DA54EA /* NSObject + className.swift */; };
+		655D5C6C2598CA5400DA54EA /* SimpleTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5C6A2598CA5400DA54EA /* SimpleTVCell.swift */; };
+		655D5C6D2598CA5400DA54EA /* SimpleTVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 655D5C6B2598CA5400DA54EA /* SimpleTVCell.xib */; };
+		655D5C702598D0EF00DA54EA /* BaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5C6F2598D0EF00DA54EA /* BaseVC.swift */; };
+		655D5D9E259A977400DA54EA /* TimerDemoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5D9D259A977400DA54EA /* TimerDemoVC.swift */; };
+		655D5DAB259A990000DA54EA /* TimerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5DA9259A990000DA54EA /* TimerCell.swift */; };
+		655D5DAC259A990000DA54EA /* TimerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 655D5DAA259A990000DA54EA /* TimerCell.xib */; };
+		655D5DB1259A996200DA54EA /* CommonTimerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5DAF259A996200DA54EA /* CommonTimerCell.swift */; };
+		655D5DB2259A996200DA54EA /* CommonTimerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 655D5DB0259A996200DA54EA /* CommonTimerCell.xib */; };
+		655D5E42259AA48200DA54EA /* LogDemoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5E41259AA48200DA54EA /* LogDemoVC.swift */; };
+		655D5E47259AA6A500DA54EA /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 655D5E46259AA6A500DA54EA /* Logger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +38,20 @@
 		655D5C242598371000DA54EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		655D5C272598371000DA54EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		655D5C292598371000DA54EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		655D5C57259890D800DA54EA /* RunLoopStatusDemoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunLoopStatusDemoVC.swift; sourceTree = "<group>"; };
+		655D5C5B2598919800DA54EA /* Array + SafetyAccess.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array + SafetyAccess.swift"; sourceTree = "<group>"; };
+		655D5C612598C2CE00DA54EA /* UITableView + Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableView + Extension.swift"; sourceTree = "<group>"; };
+		655D5C642598CA1300DA54EA /* NSObject + className.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSObject + className.swift"; sourceTree = "<group>"; };
+		655D5C6A2598CA5400DA54EA /* SimpleTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTVCell.swift; sourceTree = "<group>"; };
+		655D5C6B2598CA5400DA54EA /* SimpleTVCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SimpleTVCell.xib; sourceTree = "<group>"; };
+		655D5C6F2598D0EF00DA54EA /* BaseVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseVC.swift; sourceTree = "<group>"; };
+		655D5D9D259A977400DA54EA /* TimerDemoVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimerDemoVC.swift; sourceTree = "<group>"; };
+		655D5DA9259A990000DA54EA /* TimerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerCell.swift; sourceTree = "<group>"; };
+		655D5DAA259A990000DA54EA /* TimerCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TimerCell.xib; sourceTree = "<group>"; };
+		655D5DAF259A996200DA54EA /* CommonTimerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonTimerCell.swift; sourceTree = "<group>"; };
+		655D5DB0259A996200DA54EA /* CommonTimerCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CommonTimerCell.xib; sourceTree = "<group>"; };
+		655D5E41259AA48200DA54EA /* LogDemoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogDemoVC.swift; sourceTree = "<group>"; };
+		655D5E46259AA6A500DA54EA /* Logger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +86,107 @@
 			children = (
 				655D5C1B2598370F00DA54EA /* AppDelegate.swift */,
 				655D5C1D2598370F00DA54EA /* SceneDelegate.swift */,
-				655D5C1F2598370F00DA54EA /* ViewController.swift */,
-				655D5C212598370F00DA54EA /* Main.storyboard */,
-				655D5C242598371000DA54EA /* Assets.xcassets */,
-				655D5C262598371000DA54EA /* LaunchScreen.storyboard */,
-				655D5C292598371000DA54EA /* Info.plist */,
+				655D5C532598902400DA54EA /* UIs */,
+				655D5C5025988FE900DA54EA /* Assests */,
+				655D5C5A2598913500DA54EA /* Extensions */,
 			);
 			path = LogAndRunLoop;
+			sourceTree = "<group>";
+		};
+		655D5C5025988FE900DA54EA /* Assests */ = {
+			isa = PBXGroup;
+			children = (
+				655D5C242598371000DA54EA /* Assets.xcassets */,
+				655D5C292598371000DA54EA /* Info.plist */,
+			);
+			path = Assests;
+			sourceTree = "<group>";
+		};
+		655D5C522598901A00DA54EA /* SBs */ = {
+			isa = PBXGroup;
+			children = (
+				655D5C212598370F00DA54EA /* Main.storyboard */,
+				655D5C262598371000DA54EA /* LaunchScreen.storyboard */,
+			);
+			path = SBs;
+			sourceTree = "<group>";
+		};
+		655D5C532598902400DA54EA /* UIs */ = {
+			isa = PBXGroup;
+			children = (
+				655D5C552598903100DA54EA /* VCs */,
+				655D5C522598901A00DA54EA /* SBs */,
+			);
+			path = UIs;
+			sourceTree = "<group>";
+		};
+		655D5C552598903100DA54EA /* VCs */ = {
+			isa = PBXGroup;
+			children = (
+				655D5C1F2598370F00DA54EA /* ViewController.swift */,
+				655D5C6F2598D0EF00DA54EA /* BaseVC.swift */,
+				655D5C672598CA2600DA54EA /* RunLoopObserver */,
+				655D5D9C259A975100DA54EA /* Timer */,
+				655D5E40259AA46600DA54EA /* Log */,
+			);
+			path = VCs;
+			sourceTree = "<group>";
+		};
+		655D5C5A2598913500DA54EA /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				655D5C5B2598919800DA54EA /* Array + SafetyAccess.swift */,
+				655D5C612598C2CE00DA54EA /* UITableView + Extension.swift */,
+				655D5C642598CA1300DA54EA /* NSObject + className.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		655D5C672598CA2600DA54EA /* RunLoopObserver */ = {
+			isa = PBXGroup;
+			children = (
+				655D5C57259890D800DA54EA /* RunLoopStatusDemoVC.swift */,
+				655D5C692598CA3100DA54EA /* Cell */,
+			);
+			path = RunLoopObserver;
+			sourceTree = "<group>";
+		};
+		655D5C692598CA3100DA54EA /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				655D5C6A2598CA5400DA54EA /* SimpleTVCell.swift */,
+				655D5C6B2598CA5400DA54EA /* SimpleTVCell.xib */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		655D5D9C259A975100DA54EA /* Timer */ = {
+			isa = PBXGroup;
+			children = (
+				655D5D9D259A977400DA54EA /* TimerDemoVC.swift */,
+				655D5DA0259A977B00DA54EA /* Cell */,
+			);
+			path = Timer;
+			sourceTree = "<group>";
+		};
+		655D5DA0259A977B00DA54EA /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				655D5DA9259A990000DA54EA /* TimerCell.swift */,
+				655D5DAA259A990000DA54EA /* TimerCell.xib */,
+				655D5DAF259A996200DA54EA /* CommonTimerCell.swift */,
+				655D5DB0259A996200DA54EA /* CommonTimerCell.xib */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		655D5E40259AA46600DA54EA /* Log */ = {
+			isa = PBXGroup;
+			children = (
+				655D5E41259AA48200DA54EA /* LogDemoVC.swift */,
+				655D5E46259AA6A500DA54EA /* Logger.swift */,
+			);
+			path = Log;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +246,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				655D5DAC259A990000DA54EA /* TimerCell.xib in Resources */,
 				655D5C282598371000DA54EA /* LaunchScreen.storyboard in Resources */,
+				655D5C6D2598CA5400DA54EA /* SimpleTVCell.xib in Resources */,
 				655D5C252598371000DA54EA /* Assets.xcassets in Resources */,
+				655D5DB2259A996200DA54EA /* CommonTimerCell.xib in Resources */,
 				655D5C232598370F00DA54EA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,8 +263,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				655D5C202598370F00DA54EA /* ViewController.swift in Sources */,
+				655D5C6C2598CA5400DA54EA /* SimpleTVCell.swift in Sources */,
+				655D5C622598C2CE00DA54EA /* UITableView + Extension.swift in Sources */,
+				655D5C58259890D800DA54EA /* RunLoopStatusDemoVC.swift in Sources */,
+				655D5C702598D0EF00DA54EA /* BaseVC.swift in Sources */,
+				655D5DB1259A996200DA54EA /* CommonTimerCell.swift in Sources */,
 				655D5C1C2598370F00DA54EA /* AppDelegate.swift in Sources */,
+				655D5C5C2598919800DA54EA /* Array + SafetyAccess.swift in Sources */,
+				655D5E42259AA48200DA54EA /* LogDemoVC.swift in Sources */,
+				655D5C652598CA1300DA54EA /* NSObject + className.swift in Sources */,
 				655D5C1E2598370F00DA54EA /* SceneDelegate.swift in Sources */,
+				655D5E47259AA6A500DA54EA /* Logger.swift in Sources */,
+				655D5D9E259A977400DA54EA /* TimerDemoVC.swift in Sources */,
+				655D5DAB259A990000DA54EA /* TimerCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,7 +424,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7Y4TPNE48W;
-				INFOPLIST_FILE = LogAndRunLoop/Info.plist;
+				INFOPLIST_FILE = LogAndRunLoop/Assests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,7 +443,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7Y4TPNE48W;
-				INFOPLIST_FILE = LogAndRunLoop/Info.plist;
+				INFOPLIST_FILE = LogAndRunLoop/Assests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
